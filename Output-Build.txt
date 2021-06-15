@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: Ic-june2021, Configuration: Debug Any CPU ------
+1>C:\Users\Owner\Desktop\Industry connect\may2021\Ic-june2021\Customer.cs(9,9,9,10): error CS1519: Invalid token '{' in class, record, struct, or interface member declaration
+1>C:\Users\Owner\Desktop\Industry connect\may2021\Ic-june2021\Customer.cs(22,1,22,2): error CS1022: Type or namespace definition, or end-of-file expected
+1>Done building project "Ic-june2021.csproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
